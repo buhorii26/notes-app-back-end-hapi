@@ -1,0 +1,1 @@
+ini adalah web notes app back end sederhana dibuat oleh buhori dari kelas dicoding Belajar Membuat Aplikasi Back-End untuk pemula dan front nya melalui dari dicoding http://notesapp-v1.dicodingacademy.com/
